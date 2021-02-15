@@ -162,7 +162,7 @@ version         1.0
          <maxSize>0.325 0.4</maxSize>
          <delay>0.01</delay>
          <showSnapshotNoVideo>true</showSnapshotNoVideo>
-         <showSnapshotDelay>false</showSnapshotDelay>
+         <showSnapshotDelay>true</showSnapshotDelay>
       </video>
       <image name="md_marquee">
          <pos>0.795 0.07</pos>
